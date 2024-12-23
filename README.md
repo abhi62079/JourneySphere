@@ -14,4 +14,4 @@ Globe Quest is an immersive and user-friendly travel website designed to assist 
 
 ✨Responsive Design: WorldExplorer is designed with responsiveness in mind, ensuring optimal user experience across various devices and screen sizes. The website adapts seamlessly to desktops, laptops, tablets, and mobile devices, enabling travelers to access the platform anytime, anywhere.
 
-To view the project open the link:- https://globe-quest.netlify.app/
+To view the project open the link:- https://abhi62079.github.io/JourneySphere/
